@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goodbat
-- 👀 My current interests include Blockchain and Cybersecurity. I am teaching a course in creative problem solving with an introducton to programming concepts,
+- 👀 My current interests include Blockchain and Cybersecurity, and I am teaching a course in creative problem solving with an introduction to programming concepts.
 - 
 
 <!---
